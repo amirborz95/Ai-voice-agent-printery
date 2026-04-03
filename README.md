@@ -6,8 +6,8 @@ PRINTER WORK
 Step 1
 
 Installera printer
-USB Cable to pc och ange standard i settings
-WIFI to pc och ange standard i settings
+- USB Cable to pc och ange standard i settings
+- WIFI to pc och ange standard i settings
 
 Step 2
 
@@ -16,8 +16,8 @@ Tailscale
 VS CODE
 
 - 2 file
-print-server.js 
-start-pm2.bat 
+- print-server.js 
+- start-pm2.bat 
 
 - in terminal
 cd C:\print-server
