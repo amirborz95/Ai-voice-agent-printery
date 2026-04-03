@@ -40,10 +40,9 @@ pm2 save in terminal
 
 Activate!
 =
-tailscale
-http://RESTAURANT-IP:3001/print (ipconfig)
-n8n executione done!
-
+tailscale ipconfig
+http://RESTAURANT-IP:3001/print 
+in n8n http node - n8n executione done!
 
 COMMANDS! (use)
 
