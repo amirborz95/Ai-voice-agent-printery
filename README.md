@@ -93,6 +93,7 @@ cloudflared tunnel --config config.yaml run --token (YOUR_TOKEN)
 
 cloudflared tunnel --config config.yaml run --token
 
+cloudflared tunnel list
 
 ------------------------------------------------
 STEP 4 — AUTO START (IMPORTANT)
