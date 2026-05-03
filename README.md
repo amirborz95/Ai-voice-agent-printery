@@ -8,6 +8,18 @@ Download:
 - Node.js
 - Cloudflared
 
+
+------------------------------------------------
+files needed!
+print-server.js
+
+- privacy.html
+- start-pm2.bat
+- start-tunnel.bat
+- config.yaml
+
+
+
 ------------------------------------------------
 STEP 2 — PRINT SERVER SETUP
 
@@ -75,6 +87,7 @@ cloudflared tunnel token printer
 Run tunnel:
 
 cloudflared tunnel run --token YOUR_TOKEN
+
 
 ------------------------------------------------
 STEP 4 — AUTO START (IMPORTANT)
