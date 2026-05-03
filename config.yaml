@@ -1,0 +1,3 @@
+tunnel: printer
+ingress:
+  - service: http://localhost:3001  # Routes traffic to your print server on port 3001
