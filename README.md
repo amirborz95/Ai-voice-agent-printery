@@ -51,6 +51,7 @@ npm install express
 Start server:
 
 pm2 start print-server.js --name print-server
+
 pm2 save
 
 -----------------------------------------------
@@ -88,6 +89,10 @@ Run tunnel:
 
 cloudflared tunnel run --token YOUR_TOKEN
 
+cloudflared tunnel --config config.yaml run --token (YOUR_TOKEN)
+
+cloudflared tunnel --config config.yaml run --token
+
 
 ------------------------------------------------
 STEP 4 — AUTO START (IMPORTANT)
@@ -112,6 +117,9 @@ Paste:
 
 @echo off
 cloudflared tunnel run --token YOUR_TOKEN
+
+cloudflared tunnel --config config.yaml run --token (YOUR_TOKEN)
+
 
 -----------------------------------------------
 
