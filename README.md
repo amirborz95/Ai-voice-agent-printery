@@ -46,12 +46,15 @@ pm2 save
 COMMANDS:
 
 Start:
+
 pm2 start print-server.js --name print-server
 
 Stop:
+
 pm2 stop print-server
 
 Check status:
+
 pm2 list
 
 ------------------------------------------------
