@@ -151,3 +151,5 @@ Settings → Power → Sleep = NEVER
 FINAL LINK
 
 https://print.mysushialwaysworksman.store
+
+https://print.mysushialwaysworksman.store/print
