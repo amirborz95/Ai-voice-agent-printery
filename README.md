@@ -95,6 +95,9 @@ cloudflared tunnel --config config.yaml run --token
 
 cloudflared tunnel list
 
+cd "C:\Users\amirb\printer server" but yours!!!
+
+
 ------------------------------------------------
 STEP 4 — AUTO START (IMPORTANT)
 
