@@ -1,0 +1,1 @@
+$env:Path += ";C:\Users\amba07001\AppData\Local\Microsoft\WinGet\Packages\Cloudflare.cloudflared_Microsoft.Winget.Source_8wekyb3d8bbwe"
